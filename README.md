@@ -1,4 +1,4 @@
-## Unsupervised Domain Adaption Harnessing Vision-Language Pre-training
+## BiPC：Bidirectional Probability Calibration for Domain Adaption
 
 **by Wenlve Zhou, Zhiheng Zhou, Junyuan Shang, Chang Niu, Mingyue Zhang, Xiyuan Tao, Tianlei Wang**
 
