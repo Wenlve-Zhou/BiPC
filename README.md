@@ -1,6 +1,6 @@
 ## Unsupervised Domain Adaption Harnessing Vision-Language Pre-training
 
-**by Wenlve Zhou and Zhiheng Zhou**
+**by Wenlve Zhou, Zhiheng Zhou, Junyuan Shang, Chang Niu, Mingyue Zhang, Xiyuan Tao, Tianlei Wang**
 
 **[[ESWA 2024 Paper]](https://www.sciencedirect.com/science/article/pii/S0957417424023273)**
 **[[pdf]](https://arxiv.org/abs/2409.19542)**
